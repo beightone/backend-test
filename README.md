@@ -1,5 +1,5 @@
 # Welcome B8ONE Backend Test!
-Hi! We are happy with your willingness to work with us! In short, this test contains a challenge to build a clean api architeture with good pattern and best practices.
+Hi! We are happy with your willingness to work with us! In short, this test contains a challenge to build a clean api architecture with good pattern and best practices.
 
 ## Use
 

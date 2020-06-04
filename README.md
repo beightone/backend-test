@@ -26,27 +26,27 @@ Build a small aplication for avalliate all of this concepts.
 
 ## Tables structure
 
-- Order 
+### Order 
 
 * id: string
 * order_number: string
 * user_id: FK references - user.id (1 - n)
 * status: enum('active', 'process', 'closed')
 
-- User
+### User
 
 * id: string
 * name: string
 * lastName?: string
 * email: string
 
-- Address
+### Address
 
 * boulevard
 * neighboorhood
 * number
 
-- User_Address (n + n)
+### User_Address (n + n)
 
 * id
 * user_id: FK references - user.id
